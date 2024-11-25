@@ -1,2 +1,2 @@
 # Ignore
-this is for schoool
+this is for my java class in school

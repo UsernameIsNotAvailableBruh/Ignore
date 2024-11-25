@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Program5Unit5 {
+class Program5Unit4 {
    public static void main(String[] args) {
     Scanner input = new Scanner(System.in);
     println("Enter a value for rows:");
